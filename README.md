@@ -1,14 +1,14 @@
 # vue-node-cart
-### Мини-проект корзины интернет магазина на vue и node.js. 
+### Small project of shopping cart made via Vue & Node.js 
 
-При добавлении товара в корзину он записывается в `server/data/cart.json`.\
-Каталог товаров находится в `server/data/catalog.json`
+After adding good to cart, it writes down to `server/data/cart.json`.\
+catalog of goods can be found at `server/data/catalog.json`
 
-## Запуск локального сервера
+## Starting local server
 ```
 'server' -> `node start`
 ```
-## Запуск проекта
+## Launching project
 ```
 npm run serve
 ```
